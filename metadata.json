@@ -1,0 +1,6 @@
+{
+  "name": "OmniCalc Scientific",
+  "description": "High-precision scientific calculator with AST recursive-descent evaluation, scientific constants, trigonometry, memory registers, calculation history, and AI step-by-step mathematical explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
